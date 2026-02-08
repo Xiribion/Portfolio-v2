@@ -1,6 +1,6 @@
 # Portfolio Personal - Josep Mª Mateu
 
-Bienvenido a mi portfolio personal v2. Este proyecto es una aplicación web diseñada para mostrar mi perfil profesional, habilidades técnicas y una selección de mis proyectos más relevantes como Desarrollador Junior.
+Bienvenido a mi portfolio personal v2. Este proyecto es una aplicación web diseñada para mostrar mi perfil profesional, habilidades técnicas y una selección de mis proyectos más relevantes como Desarrollador de Software.
 
 ## 📋 Descripción
 
@@ -53,7 +53,7 @@ Al ser un sitio estático, es muy fácil de visualizar localmente:
 ## 👤 Autor
 
 **Josep Mª Mateu**
-*   **Perfil:** Junior Developer / Técnico Superior en Robótica y Mecatrónica
+*   **Perfil:** Software Developer / Técnico Superior en Robótica y Mecatrónica
 *   **Ubicación:** Llíria, C. Valenciana, España
 *   **Contacto:** mateu.j98@gmail.com
 *   **LinkedIn:** [Josep Mª Mateu](https://www.linkedin.com/in/josep-m%C2%AA-mateu-ingresa-79ba1b238/)
